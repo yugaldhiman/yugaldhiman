@@ -3,6 +3,7 @@
       
 - 🔭 Frontend : HTML , CSS , JAVASCRIPT 
 - 🌱 Libraries : REACT.JS , BOOTSTRAP , TailwindCSS , jQuery
-- 📫 Backend : Node.js , mongoDB
-- ⚡  Extra : GIT, GITHUB
+- 📫 Backend : Node.js , Express.js
+- 📦 Database : Mongodb , MySql 
+- ⚡  Extra : GIT, GITHUB , Linux 
 - 💬 Languages : English , Hindi
